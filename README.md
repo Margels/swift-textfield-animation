@@ -4,3 +4,5 @@
 ![ Alt text](textfield-animation.gif) [](textfield-animation.gif)
 
 Simple but nice animation for UITextField to perform when user selects the text field to start editing its text.
+
+![ Alt text](textfield-animation-zoom.gif) [](textfield-animation-zoom.gif)
