@@ -6,3 +6,5 @@
 
 Simple but nice animation for UITextField to perform when user selects the text field to start editing its text.
 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F36G9EI)
